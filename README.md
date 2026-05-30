@@ -1,2 +1,2 @@
 ### Hi, I'm Henry
-Computer Engineering student, lover of low-level systems development.
+Computer Engineering student, low-level systems development.
